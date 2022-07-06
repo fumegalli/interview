@@ -19,7 +19,7 @@ $ npm run coverage
 ## 📦 Como enviar a solução
 
 1. Faça um fork desse repositório no seu GitHub;
-2. Refatore o algoritmo de validação de CPF;
+2. Refatore o algoritmo de cálculo de preço de corridas;
 3. Envie o link do repositório para avaliação;
 
 ## ✅ O que será avaliado
@@ -31,4 +31,5 @@ $ npm run coverage
 Refatore até quando achar que está bom!
 
 ## ❓ Dúvidas
-- rafaelfumegalli@gmail.com
+- rafaelfumegalli@gmail.com;
+- Issue/Discussion no repositório;
